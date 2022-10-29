@@ -5,12 +5,12 @@
 * [Technologies](#technologies)
 * [Contributors](#contributors)
 
-##About
+## About
 
 Flightpicker is a project mocking flight booking and seat management system for airlines.
 It helps understand the complexity of airline flight booking manament on a more basic principle.
 
-##Technologies
+## Technologies
 
 ### Languages: 
 - JavaScript (front-end)
@@ -22,7 +22,7 @@ It helps understand the complexity of airline flight booking manament on a more 
 ### Infrastructure Management:
 - [Terraform](https://www.terraform.io/)
 
-##Contributors
+## Contributors
 
 * [@kenneth](https://github.com/kennethgargan)
 * [@mantas](https://github.com/mant45)
