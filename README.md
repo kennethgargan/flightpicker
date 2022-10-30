@@ -18,6 +18,7 @@ It helps understand the complexity of airline flight booking manament on a more 
 
 ### AWS:
 - [AWS API Gateway.](https://aws.amazon.com/api-gateway/)
+- [AWS Lambda Function.](https://aws.amazon.com/lambda/)
 
 ### Infrastructure Management:
 - [Terraform](https://www.terraform.io/)
